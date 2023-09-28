@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1514545033290-d815993e2b26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmF0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60);
+}
+
+button {
+    background-color: #7bebebd0;
+}
+
+button:hover {
+    background-color: #bbe9e9d0
+}
